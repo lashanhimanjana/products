@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<players>
+    <player>
+        <name>Lashan</name>
+        <age>20</age>
+        <position>1</position>
+    </player>
+    <player>
+        <name>Himanjana</name>
+        <age>25</age>
+        <position>2</position>
+    </player>
+    <player>
+        <name>Wijesundara</name>
+        <age>30</age>
+        <position>3</position>
+    </player>
+</players>
