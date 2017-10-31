@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elegance>
+    <Product>
+        <ref_no>APL-0001</ref_no>
+        <item_name>Apple i6 Plus Back Cover</item_name>
+        <item_description>Black and Silver coloured leader item</item_description>
+        <item_price>LKR 650.00</item_price>
+        <item_image_1>No Image</item_image_1>
+        <item_image_2>No Image</item_image_2>
+        <item_image_3>No Image</item_image_3>
+    </Product>
+    <Product>
+        <ref_no>APL-0002</ref_no>
+        <item_name>Apple i7 Plus Back Cover</item_name>
+        <item_description>White and Gold coloured leader item</item_description>
+        <item_price>LKR 400.00</item_price>
+        <item_image_1>No Image</item_image_1>
+        <item_image_2>No Image</item_image_2>
+        <item_image_3>No Image</item_image_3>
+    </Product>
+    <Product>
+        <ref_no>APL-0003</ref_no>
+        <item_name>Apple i5 Plus Back Cover</item_name>
+        <item_description>White and Black coloured leader item</item_description>
+        <item_price>LKR 750.00</item_price>
+        <item_image_1>No Image</item_image_1>
+        <item_image_2>No Image</item_image_2>
+        <item_image_3>No Image</item_image_3>
+    </Product>
+    <Product>
+        <ref_no>APL-0004</ref_no>
+        <item_name>Apple i6 Plus Back Cover</item_name>
+        <item_description>Black and Silver coloured leader item</item_description>
+        <item_price>LKR 650.00</item_price>
+        <item_image_1>No Image</item_image_1>
+        <item_image_2>No Image</item_image_2>
+        <item_image_3>No Image</item_image_3>
+    </Product>
+    <Product>
+        <ref_no>APL-0005</ref_no>
+        <item_name>Apple i7 Plus Back Cover</item_name>
+        <item_description>White and Gold coloured leader item</item_description>
+        <item_price>LKR 400.00</item_price>
+        <item_image_1>No Image</item_image_1>
+        <item_image_2>No Image</item_image_2>
+        <item_image_3>No Image</item_image_3>
+    </Product>
+    <Product>
+        <ref_no>APL-0006</ref_no>
+        <item_name>Apple i5 Plus Back Cover</item_name>
+        <item_description>White and Black coloured leader item</item_description>
+        <item_price>LKR 750.00</item_price>
+        <item_image_1>No Image</item_image_1>
+        <item_image_2>No Image</item_image_2>
+        <item_image_3>No Image</item_image_3>
+    </Product>
+    <Product>
+        <ref_no>APL-0007</ref_no>
+        <item_name>Apple i6 Plus Back Cover</item_name>
+        <item_description>Black and Silver coloured leader item</item_description>
+        <item_price>LKR 650.00</item_price>
+        <item_image_1>No Image</item_image_1>
+        <item_image_2>No Image</item_image_2>
+        <item_image_3>No Image</item_image_3>
+    </Product>
+    <Product>
+        <ref_no>APL-0008</ref_no>
+        <item_name>Apple i7 Plus Back Cover</item_name>
+        <item_description>White and Gold coloured leader item</item_description>
+        <item_price>LKR 400.00</item_price>
+        <item_image_1>No Image</item_image_1>
+        <item_image_2>No Image</item_image_2>
+        <item_image_3>No Image</item_image_3>
+    </Product>
+    <Product>
+        <ref_no>APL-0009</ref_no>
+        <item_name>Apple i5 Plus Back Cover</item_name>
+        <item_description>White and Black coloured leader item</item_description>
+        <item_price>LKR 750.00</item_price>
+        <item_image_1>No Image</item_image_1>
+        <item_image_2>No Image</item_image_2>
+        <item_image_3>No Image</item_image_3>
+    </Product>
+    <Product>
+        <ref_no>APL-0010</ref_no>
+        <item_name>Apple i6 Plus Back Cover</item_name>
+        <item_description>Black and Silver coloured leader item</item_description>
+        <item_price>LKR 650.00</item_price>
+        <item_image_1>No Image</item_image_1>
+        <item_image_2>No Image</item_image_2>
+        <item_image_3>No Image</item_image_3>
+    </Product>
+    <Product>
+        <ref_no>APL-0011</ref_no>
+        <item_name>Apple i7 Plus Back Cover</item_name>
+        <item_description>White and Gold coloured leader item</item_description>
+        <item_price>LKR 400.00</item_price>
+        <item_image_1>No Image</item_image_1>
+        <item_image_2>No Image</item_image_2>
+        <item_image_3>No Image</item_image_3>
+    </Product>
+    <Product>
+        <ref_no>APL-0012</ref_no>
+        <item_name>Apple i5 Plus Back Cover</item_name>
+        <item_description>White and Black coloured leader item</item_description>
+        <item_price>LKR 750.00</item_price>
+        <item_image_1>No Image</item_image_1>
+        <item_image_2>No Image</item_image_2>
+        <item_image_3>No Image</item_image_3>
+    </Product>
+    <Product>
+        <ref_no>APL-0013</ref_no>
+        <item_name>Apple i6 Plus Back Cover</item_name>
+        <item_description>Black and Silver coloured leader item</item_description>
+        <item_price>LKR 650.00</item_price>
+        <item_image_1>No Image</item_image_1>
+        <item_image_2>No Image</item_image_2>
+        <item_image_3>No Image</item_image_3>
+    </Product>
+    <Product>
+        <ref_no>APL-0014</ref_no>
+        <item_name>Apple i7 Plus Back Cover</item_name>
+        <item_description>White and Gold coloured leader item</item_description>
+        <item_price>LKR 400.00</item_price>
+        <item_image_1>No Image</item_image_1>
+        <item_image_2>No Image</item_image_2>
+        <item_image_3>No Image</item_image_3>
+    </Product>
+    <Product>
+        <ref_no>APL-0015</ref_no>
+        <item_name>Apple i5 Plus Back Cover</item_name>
+        <item_description>White and Black coloured leader item</item_description>
+        <item_price>LKR 750.00</item_price>
+        <item_image_1>No Image</item_image_1>
+        <item_image_2>No Image</item_image_2>
+        <item_image_3>No Image</item_image_3>
+    </Product>
+    <Product>
+        <ref_no>APL-0016</ref_no>
+        <item_name>Apple i6 Plus Back Cover</item_name>
+        <item_description>Black and Silver coloured leader item</item_description>
+        <item_price>LKR 650.00</item_price>
+        <item_image_1>No Image</item_image_1>
+        <item_image_2>No Image</item_image_2>
+        <item_image_3>No Image</item_image_3>
+    </Product>
+    <Product>
+        <ref_no>APL-0017</ref_no>
+        <item_name>Apple i7 Plus Back Cover</item_name>
+        <item_description>White and Gold coloured leader item</item_description>
+        <item_price>LKR 400.00</item_price>
+        <item_image_1>No Image</item_image_1>
+        <item_image_2>No Image</item_image_2>
+        <item_image_3>No Image</item_image_3>
+    </Product>
+    <Product>
+        <ref_no>APL-0018</ref_no>
+        <item_name>Apple i5 Plus Back Cover</item_name>
+        <item_description>White and Black coloured leader item</item_description>
+        <item_price>LKR 750.00</item_price>
+        <item_image_1>No Image</item_image_1>
+        <item_image_2>No Image</item_image_2>
+        <item_image_3>No Image</item_image_3>
+    </Product>
+</Elegance>
